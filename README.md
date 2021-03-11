@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **<a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>**
 
-
+<p align="left"> 
 Languages:
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> 
