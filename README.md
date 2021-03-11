@@ -8,7 +8,7 @@
 - 💬 Ask me about ... ⚡ 
 -->
 - 🔭 I’m currently working on: **a <a href="https://github.com/mekinsie/library">library</a> project that uses Sinatra routing and a SQL database**
-- 🌱 I’m currently learning: **Ruby on Rails, Sinatra, Capybara, PostgreSQL
-- 😄 Pronouns: **She/Her*
-- 🎹 Fun fact: **I play the piano! 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>
+- 🌱 I’m currently learning: **Ruby on Rails, Sinatra, Capybara, PostgreSQL**
+- 😄 Pronouns: **She/Her**
+- 🎹 Fun fact: **I play the piano!**
+- 📫 How to reach me: **<a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>**
