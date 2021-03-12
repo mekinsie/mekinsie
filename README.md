@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... ⚡ 
 -->
-- 🔭 I’m currently working on: **a <a href="https://github.com/mekinsie/voluteers">volunteers</a> project that helps keep track of volunteers working on projects using CRUD functionality and a SQL database.** 
+- 🔭 I’m currently working on: **a <a href="https://github.com/mekinsie/voluteers">project</a> that helps keep track of volunteers working on projects using CRUD functionality and a SQL database.** 
 
 - 🌱 I’m currently learning: **Ruby on Rails, Sinatra, Capybara, PostgreSQL** 
 
