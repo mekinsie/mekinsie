@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... ⚡ 
 -->
-- 🔭 I’m currently working on: **a <a href="https://github.com/mekinsie/product_reviews">project</a> that contains products and their reviews for Mario's Specialty Food Products. I am using Ruby on Rails with a SQL database.** 
+- 🔭 I’m currently working on: **a <a href="https://github.com/mekinsie/hitomis-sushi">project</a> that contains sushi and their reviews for Hitomi's Sushi. I am using Ruby on Rails with a SQL database.** 
 
 - 🌱 I’m currently learning: **Ruby on Rails, Sinatra, Capybara, PostgreSQL** 
 
