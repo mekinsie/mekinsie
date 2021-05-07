@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... ⚡ 
 -->
-- 🔭 I’m currently working on: **a React<a href="https://github.com/mekinsie/sleep-habits">project</a> that allows users to track their sleep habits.** 
+- 🔭 I’m currently working on: **a React <a href="https://github.com/mekinsie/sleep-habits">project</a> that allows users to track their sleep habits.** 
 
 - 🌱 I’m currently learning: **React, Redux, Firebase** 
 
