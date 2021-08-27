@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Mekinsie</h1>
-<h3 align="center">Junior Software Developer Intern at <a href="https://www.planetargon.com/">Planet Argon</a></h3> 
+<h3 align="center">Junior Software Developer at <a href="https://www.planetargon.com/">Planet Argon</a></h3> 
 
 <!--
 **mekinsie/mekinsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +7,9 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... ⚡ 
 -->
-- 🔭 I’m currently working on: **a React <a href="https://github.com/mekinsie/sleep-habits">project</a> that allows users to track their sleep habits.** 
+<!-- - 🔭 I’m currently working on: **a React <a href="https://github.com/mekinsie/sleep-habits">project</a> that allows users to track their sleep habits.**  -->
 
-- 🌱 I’m currently learning: **React, Redux, Firebase** 
+- 🌱 The languages I am currently using are: **React and Rails** 
 
 - 😄 Pronouns: **She/Her**
 
