@@ -9,7 +9,7 @@
 -->
 <!-- - 🔭 I’m currently working on: **a React <a href="https://github.com/mekinsie/sleep-habits">project</a> that allows users to track their sleep habits.**  -->
 
-- 🌱 The languages I am currently using are: **React and Rails** 
+- 🌱 The languages I am currently using are: **React and Ruby on Rails** 
 
 - 😄 Pronouns: **She/Her**
 
