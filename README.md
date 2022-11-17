@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Mekinsie</h1>
-<h3 align="center">Software Developer at <a href="https://www.scribd.com/">Scribd</a></h3> 
+<h3 align="center">Software Engineer at <a href="https://www.scribd.com/">Scribd</a></h3> 
 
 <!--
 **mekinsie/mekinsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
